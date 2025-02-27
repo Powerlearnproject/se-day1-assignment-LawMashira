@@ -130,7 +130,8 @@ Enhanced Developer Control: Effective prompts set clear intent and context, givi
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Example:
 
-Vague Prompt: "Tell me about space."
-Improved Prompt: "Provide a brief history of space exploration, highlighting three major missions, key discoveries, and the technological advancements that made them possible."
+Vague Prompt: Tell me about space.
+Improved Prompt: Provide a brief history of space exploration, highlighting three major missions, key discoveries, and the technological advancements that made them possible.
+
 Explanation:
 The vague prompt is too broad and can lead to an unfocused response, covering too many aspects of space. The improved prompt clearly defines the topic (space exploration history), specifies the elements to cover (three major missions, key discoveries, technological advancements), and limits the scope, which helps the AI generate a focused, relevant, and concise answer.
